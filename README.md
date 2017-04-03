@@ -1,4 +1,4 @@
-# tugas-proglan-2
+# tugas-proglan-3
 ini adalah repositari untuk tugas praktikum program lanjut yang berisikan 5 Anggota di Antaranya :
 
 1.
@@ -25,3 +25,14 @@ Tugas : Memasukan Judul <br>
 Nama : Rahma Tiara Puteri <br>
 Nim : 165150300111001 <br>
 Tugas : Menampilkan Object <br>
+
+<hr>
+
+<h1><u>Pembagian Tugas</u><h1>
+<ol>
+<li>bagian 1 & upluad = dwiki</li>
+<li>bagian 2 & class = zakki</li>
+<li>bagian 3 = Rahma</li>
+<li>bagian 4 = meidiana</li>
+<li>main = yulius</li>
+</ol>
